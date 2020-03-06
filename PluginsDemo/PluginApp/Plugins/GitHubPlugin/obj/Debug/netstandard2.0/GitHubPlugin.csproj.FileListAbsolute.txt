@@ -1,0 +1,8 @@
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\bin\Debug\netstandard2.0\GitHubPlugin.deps.json
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\bin\Debug\netstandard2.0\GitHubPlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\bin\Debug\netstandard2.0\GitHubPlugin.pdb
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\obj\Debug\netstandard2.0\GitHubPlugin.csprojAssemblyReference.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\obj\Debug\netstandard2.0\GitHubPlugin.AssemblyInfoInputs.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\obj\Debug\netstandard2.0\GitHubPlugin.AssemblyInfo.cs
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\obj\Debug\netstandard2.0\GitHubPlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\GitHubPlugin\obj\Debug\netstandard2.0\GitHubPlugin.pdb

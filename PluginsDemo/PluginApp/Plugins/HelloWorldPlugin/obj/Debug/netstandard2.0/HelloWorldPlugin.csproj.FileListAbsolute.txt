@@ -1,0 +1,8 @@
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\bin\Debug\netstandard2.0\HelloWorldPlugin.deps.json
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\bin\Debug\netstandard2.0\HelloWorldPlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\bin\Debug\netstandard2.0\HelloWorldPlugin.pdb
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\obj\Debug\netstandard2.0\HelloWorldPlugin.csprojAssemblyReference.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\obj\Debug\netstandard2.0\HelloWorldPlugin.AssemblyInfoInputs.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\obj\Debug\netstandard2.0\HelloWorldPlugin.AssemblyInfo.cs
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\obj\Debug\netstandard2.0\HelloWorldPlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\HelloWorldPlugin\obj\Debug\netstandard2.0\HelloWorldPlugin.pdb

@@ -1,0 +1,8 @@
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\bin\Debug\netstandard2.0\WhatsTheTimePlugin.deps.json
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\bin\Debug\netstandard2.0\WhatsTheTimePlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\bin\Debug\netstandard2.0\WhatsTheTimePlugin.pdb
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\obj\Debug\netstandard2.0\WhatsTheTimePlugin.csprojAssemblyReference.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\obj\Debug\netstandard2.0\WhatsTheTimePlugin.AssemblyInfoInputs.cache
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\obj\Debug\netstandard2.0\WhatsTheTimePlugin.AssemblyInfo.cs
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\obj\Debug\netstandard2.0\WhatsTheTimePlugin.dll
+D:\git\Repos\PluginDemo\PluginsDemo\PluginApp\Plugins\WhatsTheTimePlugin\obj\Debug\netstandard2.0\WhatsTheTimePlugin.pdb
