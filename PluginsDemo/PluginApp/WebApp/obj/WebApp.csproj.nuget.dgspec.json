@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\WebApp\\WebApp.csproj": {}
+    "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\webapp\\WebApp.csproj": {}
   },
   "projects": {
-    "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\WebApp\\WebApp.csproj": {
+    "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\webapp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\webapp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\WebApp\\WebApp.csproj",
+        "projectPath": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\webapp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Oleksii.Prosiankin\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\WebApp\\obj\\",
+        "outputPath": "D:\\git\\Repos\\PluginDemo\\PluginsDemo\\PluginApp\\webapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
